@@ -82,6 +82,5 @@ See the LICENSE file in this repository (if any). If none is present, ask the ma
 
 ---
 
-Note: I created a branch named `add-readme-and-doc` and added this README there. To open a pull request, visit:
 
 https://github.com/nXhermane/MalnutriXcollect.site/compare/add-readme-and-doc?expand=1
