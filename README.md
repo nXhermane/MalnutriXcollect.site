@@ -2,7 +2,6 @@
 
 This repository holds the public website for the MalnutriX Collect project — a lightweight site that presents the project's goals, features and documentation for the mobile data-collector app used by aides-soignants to collect patient data and sync with the MalnutriX nutritionist application.
 
-This README was generated from the MalnutriX Collect mobile project's README and the website repository package.json to provide a clear site-focused overview, setup and contribution instructions.
 
 ## What this site contains
 
