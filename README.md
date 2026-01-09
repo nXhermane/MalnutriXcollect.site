@@ -80,7 +80,6 @@ Suggested PR body:
 
 See the LICENSE file in this repository (if any). If none is present, ask the maintainers which license should be used.
 
----
 
 
 https://github.com/nXhermane/MalnutriXcollect.site/compare/add-readme-and-doc?expand=1
