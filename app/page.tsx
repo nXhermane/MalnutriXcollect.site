@@ -42,7 +42,7 @@ export default function LandingPage() {
                 rel="noreferrer"
               >
                 <Button size="lg" className="gap-2 text-lg">
-                  Télécharger l'APK
+                  {"Télécharger l'APK"}
                   <ArrowRight className="h-5 w-5" />
                 </Button>
               </a>
@@ -127,7 +127,7 @@ export default function LandingPage() {
                   <div className="flex items-start gap-3">
                     <CheckCircle2 className="h-5 w-5 text-primary mt-1 flex-shrink-0" />
                     <p className="text-card-foreground">
-                      Collecte des données à l'accueil par les aides-soignants
+                      {"Collecte des données à l'accueil par les aides-soignants"}
                     </p>
                   </div>
                   <div className="flex items-start gap-3">
@@ -139,7 +139,7 @@ export default function LandingPage() {
                   <div className="flex items-start gap-3">
                     <CheckCircle2 className="h-5 w-5 text-primary mt-1 flex-shrink-0" />
                     <p className="text-card-foreground">
-                      Jusqu'à <strong>90% de réduction</strong> du temps de
+                      {"Jusqu'à"} <strong>90% de réduction</strong> du temps de
                       saisie des données
                     </p>
                   </div>
@@ -232,8 +232,7 @@ export default function LandingPage() {
                 </div>
                 <h3 className="text-2xl font-semibold">Collecte</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  L'aide-soignant crée ou recherche le patient puis saisit les
-                  données anthropométriques et cliniques à l'accueil.
+                  {"L'aide-soignant crée ou recherche le patient puis saisit les données anthropométriques et cliniques à l'accueil."}
                 </p>
               </div>
             </div>
@@ -256,8 +255,7 @@ export default function LandingPage() {
                 </div>
                 <h3 className="text-2xl font-semibold">Transmission</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Les données sont automatiquement transférées et intégrées dans
-                  l'application du nutritionniste.
+                 {"Les données sont automatiquement transférées et intégrées dans l'application du nutritionniste."}
                 </p>
               </div>
             </div>
@@ -298,7 +296,7 @@ export default function LandingPage() {
       <section className="bg-card border-y">
         <div className="container mx-auto px-4 py-20">
           <div className="text-center space-y-4 mb-16">
-            <h2 className="text-4xl font-bold">Découvrez l'interface</h2>
+            <h2 className="text-4xl font-bold">{"Découvrez l'interface"}</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Une interface intuitive conçue pour les professionnels de santé
             </p>
@@ -354,8 +352,7 @@ export default function LandingPage() {
             Prêt à améliorer vos consultations ?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Téléchargez la version bêta et commencez à gagner du temps dès
-            aujourd'hui
+            {"Téléchargez la version bêta et commencez à gagner du temps dès aujourd'hui"}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

@@ -33,7 +33,7 @@ export default function ReleasesPage() {
             <Badge className="w-fit mx-auto">Versions</Badge>
             <h1 className="text-4xl lg:text-6xl font-bold text-balance leading-tight">Historique des versions</h1>
             <p className="text-xl text-muted-foreground leading-relaxed text-pretty">
-              Suivez l'évolution de MalnutriX Collect à travers toutes les versions publiées.
+              {"Suivez l'évolution de MalnutriX Collect à travers toutes les versions publiées."}
             </p>
           </div>
         </div>

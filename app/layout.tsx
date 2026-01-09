@@ -1,17 +1,17 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Geist, Geist_Mono } from "next/font/google"
-import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const _geist = Geist({ subsets: ["latin"] })
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "MalnutriX Collect - Collecte de données nutritionnelles",
   description:
     "Application mobile pour aides-soignants : collectez les données patients avant consultation et synchronisez avec MalnutriX",
-  generator: "v0.app",
   icons: {
     icon: [
       {
@@ -40,7 +40,6 @@ export default function RootLayout({
     <html lang="fr">
       <body className={`font-sans antialiased`}>
         {children}
-        <Analytics />
       </body>
     </html>
   )

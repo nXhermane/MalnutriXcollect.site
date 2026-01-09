@@ -18,11 +18,10 @@ export default function GuidePage() {
           <div className="max-w-3xl mx-auto text-center space-y-6">
             <Badge className="w-fit mx-auto">Guide Utilisateur</Badge>
             <h1 className="text-4xl lg:text-6xl font-bold text-balance leading-tight">
-              Guide d'utilisation de MalnutriX Collect
+              {"Guide d'utilisation de MalnutriX Collect"}
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed text-pretty">
-              Ce guide est destiné aux aides-soignants pour les accompagner à chaque étape de l'utilisation de
-              l'application.
+              {"Ce guide est destiné aux aides-soignants pour les accompagner à chaque étape de l'utilisation de l'application."}
             </p>
           </div>
         </div>

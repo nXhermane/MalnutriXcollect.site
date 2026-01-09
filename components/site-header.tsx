@@ -3,7 +3,7 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { MalnutrixLogo } from "@/components/malnutrix-logo"
-import { Menu, X } from "lucide-react"
+import { Menu } from "lucide-react"
 import { Sheet, SheetContent, SheetTrigger, SheetClose } from "@/components/ui/sheet"
 import { usePathname } from "next/navigation"
 import { useState } from "react"
@@ -69,11 +69,11 @@ export function SiteHeader() {
           <SheetContent side="right" className="w-[280px] sm:w-[350px] px-4">
             <div className="flex items-center justify-between mb-8">
               <div className="flex items-center gap-2">
-              
+
               </div>
               <SheetClose />
-              
-              
+
+
             </div>
 
             <div className="flex flex-col gap-2">
@@ -108,7 +108,7 @@ export function SiteHeader() {
                 className="w-full mt-2"
                 onClick={() => setOpen(false)}
               >
-                <Button className="w-full h-12 text-base bg-primary hover:bg-primary/90">Télécharger l'App</Button>
+                <Button className="w-full h-12 text-base bg-primary hover:bg-primary/90">{"Télécharger l'App"}</Button>
               </a>
             </div>
           </SheetContent>
