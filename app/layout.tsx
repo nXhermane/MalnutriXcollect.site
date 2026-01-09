@@ -1,6 +1,7 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Geist, Geist_Mono } from "next/font/google"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import "./globals.css"
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -40,6 +41,7 @@ export default function RootLayout({
     <html lang="fr">
       <body className={`font-sans antialiased`}>
         {children}
+        <SpeedInsights />
       </body>
     </html>
   )
