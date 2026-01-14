@@ -37,7 +37,7 @@ export default function LandingPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://release-assets.githubusercontent.com/github-production-release-asset/1103240492/e49d3828-5f77-4bbd-9231-7348b196c867?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-09T08%3A15%3A31Z&rscd=attachment%3B+filename%3Dapp-beta.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-09T07%3A15%3A07Z&ske=2026-01-09T08%3A15%3A31Z&sks=b&skv=2018-11-09&sig=P2mjjlNEPMsC8dk7l1cvahknHHIqIQ20xjtMPDsjLXM%3D"
+                href="https://github.com/nXhermane/MalnutriXcollect/releases/download/v1.0.0-beta.7/app-beta.apk"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -356,7 +356,7 @@ export default function LandingPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://release-assets.githubusercontent.com/github-production-release-asset/1103240492/e49d3828-5f77-4bbd-9231-7348b196c867?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-09T08%3A15%3A31Z&rscd=attachment%3B+filename%3Dapp-beta.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-09T07%3A15%3A07Z&ske=2026-01-09T08%3A15%3A31Z&sks=b&skv=2018-11-09&sig=P2mjjlNEPMsC8dk7l1cvahknHHIqIQ20xjtMPDsjLXM%3D"
+            href="https://github.com/nXhermane/MalnutriXcollect/releases/download/v1.0.0-beta.7/app-beta.apk"
               target="_blank"
               rel="noreferrer"
             >

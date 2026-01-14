@@ -45,16 +45,16 @@ export const guideSteps: GuideStep[] = [
     sections: [
       {
         id: "download",
-        title: "Télécharger",
+        title: "Télécharger",
         icon: Download,
         content:
-          "Téléchargez le fichier apk en cliquant sur le bouton télécharger sur le site de <b>MalnutriX Collect</b>",
+          "Téléchargez le fichier apk en cliquant <a href='https://github.com/nXhermane/MalnutriXcollect/releases/download/v1.0.0-beta.7/app-beta.apk' target='_blank' rel='noreferrer'>ici</a>",
       },
       {
         id: "setup",
         title: "Autorisation de la source (Chrome)",
         content:
-          "Une fois le fichier télécharger, cliquez sur ouvrir le fichier. Par defaut, le téléphone bloque l'installation de fichier apk car le fichier provient de Chrome (une 'soure inconnue')",
+          "Une fois le fichier télécharger, cliquez sur ouvrir le fichier. Par defaut, le téléphone bloque l'installation de fichier apk car le fichier provient de Chrome (une 'soure inconnue')",
         list: [
           "Cliquez sur le fichier apk",
           "Une fenêtre d'alerte s'affiche. Cliquez sur <b>Paramètre</b> (ou 'Settings')",
