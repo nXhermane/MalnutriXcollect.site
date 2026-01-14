@@ -131,7 +131,7 @@ export default function GuidePage() {
                       {section.title}
                     </h3>
                     <div className={`space-y-4 ${section.icon ? "pl-13" : ""}`}>
-                      <div className="text-muted-foreground leading-relaxed text-lg">{section.content}</div>
+                      <div className="text-muted-foreground leading-relaxed text-lg" dangerouslySetInnerHTML={{ __html: section.content }} />
 
                       {section.list && (
                         <ol className="space-y-4 list-none">

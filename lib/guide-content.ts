@@ -48,7 +48,7 @@ export const guideSteps: GuideStep[] = [
         title: "Télécharger",
         icon: Download,
         content:
-          "Téléchargez le fichier apk en cliquant <a href='https://github.com/nXhermane/MalnutriXcollect/releases/download/v1.0.0-beta.7/app-beta.apk' target='_blank' rel='noreferrer'>ici</a>",
+          "Téléchargez le fichier apk en cliquant <a class='text-primary no-underline' href='https://github.com/nXhermane/MalnutriXcollect/releases/download/v1.0.0-beta.7/app-beta.apk' target='_blank' rel='noreferrer'>ici</a>",
       },
       {
         id: "setup",
